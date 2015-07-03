@@ -8157,7 +8157,7 @@ Source: www.kingbright.com</description>
 </library>
 </libraries>
 <attributes>
-<attribute name="CNAME" value="CANable USB&lt;=&gt;CAN"/>
+<attribute name="CNAME" value="CANable USB&lt;=&gt;CAN / FabLab Karlsruhe MOD"/>
 <attribute name="CREVISION" value="0.1"/>
 <attribute name="DESIGNER" value="Ethan Zonca"/>
 </attributes>
