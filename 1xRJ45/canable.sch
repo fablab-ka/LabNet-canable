@@ -8229,6 +8229,7 @@ ease of routing</text>
 <text x="25.654" y="61.468" size="5.08" layer="113">Indication</text>
 <text x="262.382" y="151.13" size="2.1844" layer="94" rot="R180">2-3 terminates CAN bus</text>
 <text x="261.366" y="124.968" size="2.1844" layer="94" rot="R180">1-2 enters bootloader</text>
+<text x="116.84" y="22.86" size="1.27" layer="91">TPS73133</text>
 </plain>
 <instances>
 <instance part="J2" gate="G$1" x="256.54" y="35.56"/>
@@ -8599,6 +8600,7 @@ ease of routing</text>
 <pinref part="JP2" gate="1" pin="2"/>
 <wire x1="139.7" y1="162.56" x2="165.1" y2="162.56" width="0.1524" layer="91"/>
 <wire x1="165.1" y1="162.56" x2="165.1" y2="165.1" width="0.1524" layer="91"/>
+<label x="139.7" y="162.56" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="CANL" class="0">
@@ -8617,6 +8619,7 @@ ease of routing</text>
 <pinref part="JP1" gate="1" pin="2"/>
 <wire x1="139.7" y1="160.02" x2="154.94" y2="160.02" width="0.1524" layer="91"/>
 <wire x1="154.94" y1="160.02" x2="154.94" y2="165.1" width="0.1524" layer="91"/>
+<label x="139.7" y="160.02" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$3" class="0">
