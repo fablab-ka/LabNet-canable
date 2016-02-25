@@ -1,0 +1,15 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"PROD_ID";
+"2";"";"JP2E";"JP2";"JP1, JP2";"JUMPER";"";
+"2";"";"LEDCHIPLED_1206";"CHIPLED_1206";"LED1, LED2";"LED";"";
+"1";"";"M03SCREW_LOCK";"SCREWTERMINAL-3.5MM-3_LOCK.007S";"J3";"Header 3";"";
+"1";"";"MEBP_8-8G";"MEBP";"CON1";"Reichelt RJ45 geschirmt MEBP 8-8G";"";
+"2";"";"PINHD-1X3";"1X03";"JP3, JP4";"PIN HEADER";"";
+"1";"";"PINHD-1X4";"1X04";"JP5";"PIN HEADER";"";
+"3";"";"R-EU_R0805";"R0805";"R1, R2, R4";"RESISTOR, European symbol";"";
+"5";"0.1uF";"C-EUC0805";"C0805";"C1, C2, C3, C4, C6";"CAPACITOR, European symbol";"";
+"1";"120";"R-EU_R0805";"R0805";"R3";"RESISTOR, European symbol";"";
+"2";"4.7uF";"C-EUC0805";"C0805";"C5, C7";"CAPACITOR, European symbol";"";
+"1";"AP2202K-3.3TRG1";"MIC52053.3V";"SOT23-5";"U2";"MIC5205 150mA vreg";"VREG-00822";
+"1";"MCP2551";"MCP2551";"SO08";"U3";"CAN transceiver";"IC-09907";
+"1";"STM32F042C6T6";"STM32F042C6T6";"LQFP48";"U$1";"";"";
+"1";"USB-MICROB";"USB-MICROB";"USB-MICROB";"J2";"USB Connectors";"CONN-09505";
